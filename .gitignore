@@ -1,2 +1,2 @@
 .github/main
-.gitignore
+/src/.gitignore
